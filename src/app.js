@@ -14,6 +14,7 @@ import 'react-dates/lib/css/_datepicker.css';
 
 const store = configureStore();
 
+
 // setTimeout(()=>{
 //     store.dispatch(setTextFilter('gas'));
 // },3000)
